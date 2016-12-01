@@ -1,0 +1,155 @@
+body {
+    width: 900px;
+    background-color: #4A453B;
+   
+	font-family: 'Arvo', serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+nav {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+nav a {
+    font-size: 32px;
+    border: 2px solid white;
+    margin-left: 8px;
+    padding-left: 10px;
+}
+
+p {
+    line-height: 160%;
+    color: #f7f7f7;
+    margin-top: 16px;
+}
+
+h1 {
+    font-size: 72px;
+     font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 48px;
+    color: white; 
+    font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+}
+
+ul,
+ol {
+    font-size: 16px;
+    color: #f7f7f7;
+}
+
+img {
+    border-radius: 0.25em;
+    width: 100%;
+}
+
+a {
+    color: #FFD78C;
+    text-decoration: none;
+}
+
+#first {
+	color: red;
+}
+.like {
+	color: blue;
+}
+.profile {
+	width: 180px;
+	border: 5px solid white;
+	margin-right: 18px;
+	border-radius: 100%;
+	float: left;
+}
+
+header {
+	margin-top: 24px;
+}
+footer {
+	margin-top: 64px;
+	margin-bottom: 32px;
+}
+#homepage {
+	column-count: 2;
+	column-gap: 24px;
+	margin-top: 24px;
+}
+
+a:hover {
+	color: salmon;
+}
+a:visited {
+	color: purple;
+}
+iframe {
+	margin-bottom: 32px;
+	margin-left
+}
+#taylor {
+	margin-left: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
